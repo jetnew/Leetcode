@@ -1,2 +1,2 @@
-g# Leetcode
+# Leetcode
 Collection of Leetcode solutions
